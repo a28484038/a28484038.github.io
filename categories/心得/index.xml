@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on 阿鳳的部落格</title>
+    <link>https://a28484038.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on 阿鳳的部落格</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 31 Aug 2024 16:30:00 +0800</lastBuildDate>
+    <atom:link href="https://a28484038.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用Markdown語法寫出一篇文章</title>
+      <link>https://a28484038.github.io/blog/test/</link>
+      <pubDate>Sat, 31 Aug 2024 16:30:00 +0800</pubDate>
+      <guid>https://a28484038.github.io/blog/test/</guid>
+      <description>一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 人生有三億，失憶、回憶跟不容易&#xA;今天天氣很晴朗&#xA;晴空萬里&#xA;是個快樂出遊的好日子</description>
+    </item>
+  </channel>
+</rss>
